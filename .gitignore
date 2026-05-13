@@ -1,0 +1,18 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.xdv
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+
+# Template files (downloaded during CI)
+template/
+ntuthesis.cls
+fonts/
